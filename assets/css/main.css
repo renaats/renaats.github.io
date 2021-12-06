@@ -2534,6 +2534,9 @@ input, select, textarea {
 	.topnav {
 		display: block;
 	}
+	#first-name {
+		text-align: center;
+	}
 }
 
 @media only screen and (min-device-width: 1501px) {
