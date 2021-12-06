@@ -2527,7 +2527,7 @@ input, select, textarea {
 	color: white;
 }
 
-@media only screen and (max-device-width: 1500px) {
+@media (max-width: 1000px) {
 	#nav {
 		display: none;
 	}
@@ -2539,7 +2539,7 @@ input, select, textarea {
 	}
 }
 
-@media only screen and (min-device-width: 1501px) {
+@media (min-width: 1001px) {
 	#nav {
 		display: block;
 	}
